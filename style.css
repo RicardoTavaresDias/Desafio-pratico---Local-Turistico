@@ -82,13 +82,36 @@ ol {
 }
 
 
-li {
-  /* border: 2px solid rebeccapurple; */
- 
-}
-
 .list img {
   margin-top: 48px;
+  height: 350px;
+}
+
+li::marker{
+  color: #333333;
+}
+
+li {
+  color: blue;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+dl{
+  color: black;
+  font-weight: bold;
+}
+
+section:nth-child(6) li:nth-child(3){
+  /* border: 2px solid violet; */
+  color: rgb(255, 139, 159);
+  font-weight: bold;
+}
+
+section:nth-child(6) li:nth-child(4){
+  /* border: 2px solid red; */
+  color: orange;
+  font-weight: bold;
 }
 
 
