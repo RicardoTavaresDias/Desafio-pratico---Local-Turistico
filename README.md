@@ -1,7 +1,7 @@
 <h1 align="center"> Local Turísmo </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, no modulo Iniciando o HTML e CSS.
+Programa exclusivo no curso Full-Stack, promovido pela Rocketseat para ensino de tecnologias WEB, no modulo Iniciando o HTML e CSS, realizado Desafio no final do modulo Iniciando o HTML e CSS.
 </p>
 
 <p align="center">
@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://www.rocketseat.com.br/)
+Rocketseat: [Participe da nossa comunidade!](https://www.rocketseat.com.br/)
